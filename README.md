@@ -4,7 +4,7 @@
 <h2>Bem-Vindo ao meu perfil do GitHub</h2>
 <div>
   <p>Tenho 20 anos, Comecei a me interessar por programação graças ao jogo DOOM(1993), o qual é famoso pela sua arquitetura simples e seu design único.</p>
-  <img src= "https://sm.ign.com/t/ign_br/cover/d/doom-1993/doom-1993_pwn2.1200.jpg">
+  <img height="250px" width="250px" src= "https://sm.ign.com/t/ign_br/cover/d/doom-1993/doom-1993_pwn2.1200.jpg">
 </div>
 <div>
   <h3>Competências</h3>
