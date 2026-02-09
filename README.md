@@ -5,7 +5,20 @@
 </h3>
 
 <p align="center">
-  <img src="https://sm.ign.com/t/ign_br/cover/d/doom-1993/doom-1993_pwn2.1200.jpg" width="220"">
+   <svg width="220" height="220" viewBox="0 0 220 220">
+    <defs>
+      <clipPath id="rounded">
+        <rect width="220" height="220" rx="18" ry="18"/>
+      </clipPath>
+    </defs>
+
+    <image
+      href="https://sm.ign.com/t/ign_br/cover/d/doom-1993/doom-1993_pwn2.1200.jpg"
+      width="220"
+      height="220"
+      clip-path="url(#rounded)"
+    />
+  </svg>
 </p>
 
 <p align="center">
