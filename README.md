@@ -3,7 +3,8 @@
 <h1>Olá, Eu Sou o Evandro!</h1>
 <h2>Bem-Vindo ao meu perfil do GitHub</h2>
 <div>
-  <p>Tenho 21 anos, Comecei a me interessar por programação graças ao jogo DOOM(1993) o qual revolucionou não só os video games mas também como a industria de jogos via os computadores.<br>
+  <p>Olá! Tenho 21 anos.<br>
+    Comecei a me interessar por programação graças ao jogo DOOM(1993) o qual revolucionou não só os video games mas também como a industria de jogos via os computadores.<br>
     Ele moldou a minha pesonalidade, me fez gostar de música<span style='font-size:100px;'>&#127925;</span> e me deixou curioso pra saber como tudo aquilo funcionava, eu não sou tão velho quanto meus gostos levam a entender, mas em 2009 eu consumia coisas de 20-30 anos atrás.<br>
     Então foi incrível descobrir DOOM quando ainda criança.<br>
   </p>
