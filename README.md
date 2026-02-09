@@ -12,12 +12,11 @@
       </clipPath>
     </defs>
 
-    <image
+    <img>
       href="https://sm.ign.com/t/ign_br/cover/d/doom-1993/doom-1993_pwn2.1200.jpg"
       width="220"
       height="220"
-      clip-path="url(#rounded)"
-    />
+      clip-path="url(#rounded)"</img>
   </svg>
 </p>
 
