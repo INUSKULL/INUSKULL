@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  Tenho 21 anos e comecei a me interessar por programação graças ao jogo <strong>DOOM (1993)</strong>.<br>
-  Um jogo que não só revolucionou os videogames, mas também a forma como os computadores eram vistos pela industria de jogos.<br><br>
+  Tenho 21 anos e comecei a me interessar por programação graças ao jogo <strong>DOOM (1993)</strong>. <br>
+  Um jogo que não só revolucionou os videogames, mas também a forma como os computadores eram vistos pela industria de jogos. <br><br>
 </p>
 <p align="center">
-  Ele moldou minha personalidade, me fez gostar de música🎵<br>
-  e despertou minha curiosidade em entender como tudo aquilo funcionava.<br><br>
+  Ele moldou minha personalidade, me fez gostar de música🎵 <br>
+  e despertou minha curiosidade em entender como tudo aquilo funcionava. <br><br>
 </p>
 <p align="center">
   Apesar de não ser tão velho quanto meus gostos fazem parecer,<br>
-  em 2009 eu já consumia coisas de 20 a 30 anos atrás.<br>
+  em 2009 eu já consumia coisas de 20 a 30 anos atrás. <br>
   Descobrir DOOM ainda criança foi simplesmente incrível.
 </p>
 
