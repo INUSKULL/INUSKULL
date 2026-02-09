@@ -19,7 +19,11 @@
 <p align="center">
   Apesar de não ser tão velho quanto meus gostos fazem parecer,<br>
   em 2008 eu já consumia coisas de 20 a 30 anos atrás&#128250, com apenas 4 anos de idade. <br>
-  Descobrir DOOM ainda criança foi simplesmente incrível.
+  Descobrir DOOM ainda criança foi simplesmente incrível. <br><br>
+</p>
+
+<p align="center">
+  Parece meio bobo dizer isso, mas foi graças a um "joguinho besta" que eu me tornei programador e músico.
 </p>
 
 ---
