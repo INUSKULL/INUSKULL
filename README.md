@@ -7,7 +7,7 @@
 <p align="center">
    <svg width="220" height="220" viewBox="0 0 220 220">
     <defs>
-      <clipPath id="rounded">
+      <clipPath id="rounded-img-1">
         <rect width="220" height="220" rx="18" ry="18"/>
       </clipPath>
     </defs>
