@@ -10,7 +10,7 @@
 
 <p align="center">
   Tenho 21 anos e comecei a me interessar por programação graças ao jogo <strong>DOOM (1993)</strong>.<br>
-  Um jogo que não só revolucionou os videogames, mas também a forma como os computadores eram vistos.<br><br>
+  Um jogo que não só revolucionou os videogames, mas também a forma como os computadores eram vistos pela industria de jogos.<br><br>
 </p>
 <p align="center">
   Ele moldou minha personalidade, me fez gostar de música🎵<br>
