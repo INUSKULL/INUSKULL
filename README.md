@@ -20,7 +20,7 @@
   Apesar de não ser tão velho quanto meus gostos fazem parecer,<br>
   em 2008 eu já consumia coisas de 20 a 30 anos atrás&#128250, com apenas 4 anos de idade. <br>
   Descobrir DOOM ainda criança foi simplesmente incrível. <br> 
-  Isso me deu um insentivo que eu só fui tranformar em algo produtivo a pouco menos de 1 ano atrás. <br><br>
+  Isso me deu um insentivo que eu só fui transformar em algo produtivo a pouco menos de 1 ano atrás. <br><br>
 </p>
 
 <p align="center">
