@@ -13,7 +13,7 @@
   Um jogo que não só revolucionou os videogames, mas também a forma como os computadores eram vistos pela industria de jogos. <br><br>
 </p>
 <p align="center">
-  Ele moldou minha personalidade, me fez gostar de música🎵 <br>
+  Ele moldou minha personalidade, me fez gostar de música🎵 especialmente de Heavy Metal <span>&#127928;</span> <br>
   e despertou minha curiosidade em entender como tudo aquilo funcionava. <br><br>
 </p>
 <p align="center">
