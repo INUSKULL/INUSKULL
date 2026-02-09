@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   Apesar de não ser tão velho quanto meus gostos fazem parecer,<br>
-  em 2009 eu já consumia coisas de 20 a 30 anos atrás com apenas 4 anos de idade. <br>
+  em 2008 eu já consumia coisas de 20 a 30 anos atrás com apenas 4 anos de idade. <br>
   Descobrir DOOM ainda criança foi simplesmente incrível.
 </p>
 
